@@ -6,9 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
      "streamlit",
-    "pandas",
-    "numpy",
-    "scikit-learn",
-    "joblib",
-    "xgboost"
+     "pandas",
+     "numpy",
+     "scikit-learn",
+     "joblib",
+     "xgboost",
 ]
